@@ -25,6 +25,8 @@ two_rows_df = songs_df.iloc[0:2]
 thriller_length = songs_df.iloc[0, 1]
 #print(thriller_length)
 
+print("hey")
+
 
 
 
